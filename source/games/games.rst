@@ -10,5 +10,3 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-
-	games/games.rst
