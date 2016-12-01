@@ -10,8 +10,3 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-
-	games/cod.rst
-	games/battlefield.rst
-	games/titanfall.rst
-	games/farcry.rst
