@@ -19,3 +19,7 @@ Contents:
    systems/PS4.rst
    systems/WiiU.rst
    systems/Xbox1.rst
+   accessories/amiibo.rst
+   accessories/kinect.rst
+   accessories/playstation_move.rst
+   accessories/xbox_headset.rst
