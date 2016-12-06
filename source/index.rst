@@ -9,7 +9,7 @@ Welcome to Gaming Systems!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    games/cod.rst
    games/battlefield.rst
