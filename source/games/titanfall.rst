@@ -8,3 +8,9 @@ Contents:
 
 About
 ------
+
+Availablity
+------------
+* PS4
+* Xbox 1
+* PC

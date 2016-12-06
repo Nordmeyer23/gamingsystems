@@ -9,4 +9,10 @@ Contents:
 About
 ------
 
-Battlefield 1 is a first person shooter game based on World War 1. 
+Battlefield 1 is a first person shooter game based on World War 1.
+
+Availablity
+------------
+* PS4
+* Xbox 1
+* PC
