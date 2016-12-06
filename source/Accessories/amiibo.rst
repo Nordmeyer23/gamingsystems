@@ -13,29 +13,29 @@ Amiibo are a series of Nintendo character toys that interact with multiple games
 +----------------------------------------------------------+
 |*Mario Kart 8*                                            |
 +----------------------------------------------------------+
-|**Yoshi’s Wooly World**                                   |
+|*Yoshi’s Wooly World*                                     |
 +----------------------------------------------------------+
-|**Mario Party 10**                                        |
+|*Mario Party 10*                                          |
 +----------------------------------------------------------+
-|**Captain Toad Treasure Tracker**                         |
+|*Captain Toad Treasure Tracker*                           |
 +----------------------------------------------------------+
-|**Hyrule Warriors**                                       |
+|*Hyrule Warriors*                                         |
 +----------------------------------------------------------+
-|**One Piece: Super Grand Battle! X**                      |
+|*One Piece: Super Grand Battle! X*                        |
 +----------------------------------------------------------+
-|**Kirby and the Rainbow Curse**                           |
+|*Kirby and the Rainbow Curse*                             |
 +----------------------------------------------------------+
-|**Splatoon**                                              |
+|*Splatoon*                                                |
 +----------------------------------------------------------+
-|**Super Mario Maker**                                     |
+|*Super Mario Maker*                                       |
 +----------------------------------------------------------+
-|**Shovel Knight**                                         |
+|*Shovel Knight*                                           |
 +----------------------------------------------------------+
-|**Ace Combat 3D: Cross Rumble Plus**                      |
+|*Ace Combat 3D: Cross Rumble Plus*                        |
 +----------------------------------------------------------+
-|**Code Name S.T.E.A.M.**                                  |
+|*Code Name S.T.E.A.M.*                                    |
 +----------------------------------------------------------+
-|**Animal Crossing: Happy Home Designer**                  |
+|*Animal Crossing: Happy Home Designer*                    |
 +----------------------------------------------------------+
 
 Systems
