@@ -1,2 +1,2 @@
-Play Station Move
-=================
+PlayStation Move
+================
