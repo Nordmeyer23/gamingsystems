@@ -9,9 +9,9 @@ Amiibo are a series of Nintendo character toys that interact with multiple games
 +----------------------------------------------------------+
 |Games that work with it                                   |
 +==========================================================+
-|**Super Smash Bros. for Wii U/Super Smash Bros. for 3DS** |
+|*Super Smash Bros. for Wii U/Super Smash Bros. for 3DS*   |
 +----------------------------------------------------------+
-|**Mario Kart 8**                                          |
+|*Mario Kart 8*                                            |
 +----------------------------------------------------------+
 |**Yoshi’s Wooly World**                                   |
 +----------------------------------------------------------+
