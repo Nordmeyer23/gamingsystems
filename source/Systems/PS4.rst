@@ -22,7 +22,9 @@ Overall the PS4 is a great system for every kind of user including children.
 Sony has released multiple games for children and there are plenty 
 that private developers have created. 
 
-========== ========== ====== ==== ======
-GPU	       CPU	      Memory AV   HDD
-========== ========== ====== ==== ======
-AMD Radeon AMD Jaguar 8GB    HDMI 500GB
++----------+----------+------+----+-----+
+|GPU	   |CPU	      |Memory| AV | HDD |
+|          |          |      |    |     |
++==========+==========+======+====+=====+
+|AMD Radeon|AMD Jaguar|8GB   |HDMI|500GB|
++----------+----------+------+----+-----+
