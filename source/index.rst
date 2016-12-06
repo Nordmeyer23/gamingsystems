@@ -15,4 +15,7 @@ Contents:
    games/battlefield.rst
    games/titanfall.rst
    games/farcry.rst
-   Systems/PC.rst
+   systems/PC.rst
+   systems/PS4.rst
+   systems/WiiU.rst
+   systems/Xbox1.rst
