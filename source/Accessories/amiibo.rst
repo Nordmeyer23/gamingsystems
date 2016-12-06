@@ -1,2 +1,5 @@
 Amiibo
 ======
+
+What are they?
+--------------
