@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Gaming Systems's documentation!
+Welcome to Gaming Systems!
 ==========================================
 
 Contents:
@@ -15,4 +15,11 @@ Contents:
    games/battlefield.rst
    games/titanfall.rst
    games/farcry.rst
-   Systems/PC.rst
+   systems/PC.rst
+   systems/PS4.rst
+   systems/WiiU.rst
+   systems/Xbox1.rst
+   accessories/amiibo.rst
+   accessories/kinect.rst
+   accessories/playstation_move.rst
+   accessories/xbox_headset.rst
