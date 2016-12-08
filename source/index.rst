@@ -15,11 +15,11 @@ Contents:
    games/battlefield.rst
    games/titanfall.rst
    games/farcry.rst
-   systems/PC.rst
-   systems/PS4.rst
-   systems/WiiU.rst
-   systems/Xbox1.rst
-   accessories/amiibo.rst
-   accessories/kinect.rst
-   accessories/playstation_move.rst
-   accessories/xbox_headset.rst
+   Systems/PC.rst
+   Systems/PS4.rst
+   Systems/WiiU.rst
+   Systems/Xbox1.rst
+   Accessories/amiibo.rst
+   Accessories/kinect.rst
+   Accessories/playstation_move.rst
+   Accessories/xbox_headset.rst
