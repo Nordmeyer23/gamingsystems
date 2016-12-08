@@ -9,6 +9,9 @@ Contents:
 About
 ------
 
+
+This game was created by Electronic Arts(EA) Inc.
+
 Availablity
 ------------
 * PS4
