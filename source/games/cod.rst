@@ -16,8 +16,12 @@ Multiplayer, and Zombies.
 
 In the campaign you are acting as Captain Reyes, who is a Tier 1 Special Ops
 pilot who was turned commander, and you must lead your remaining forces against
-a relentless enemy.
+a never ending, unforgiving enemy. While fighting in the extreme enviroments of
+deadly space.
 
+In the Multiplayer game mode you are fighting all around the vast solar system.
+
+While the rest of the game is set in the future, the Zombie game mode is set
 
 This game was created by Activision.
 
