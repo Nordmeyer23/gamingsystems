@@ -6,6 +6,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+.. image:: battlefield.jpg
+   :height: 250px
+   :width: 250px
+
 About
 ------
 
