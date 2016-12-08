@@ -6,6 +6,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+.. image:: titanfall.jpg
+   :height: 250px
+   :width: 250px
+
 About
 ------
 

@@ -6,6 +6,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+.. image:: farcry.jpg
+   :height: 250px
+   :width: 250px
+
 About
 ------
 Far Cry Primal is a first person role playing game set in the stone age when 
