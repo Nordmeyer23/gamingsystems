@@ -17,7 +17,7 @@ About
 This game was created by Electronic Arts(EA) Inc.
 
 +------------------+
-|Availability      |
+|*Availability*    |
 +==================+
 |Playstation 4     |
 +------------------+

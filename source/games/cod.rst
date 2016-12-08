@@ -39,7 +39,7 @@ good is an 80s theme without a rad 80s soundtrack?
 This game was created by Activision.
 
 +------------------+
-|Availability      |
+|*Availability*    |
 +==================+
 |Playstation 4     |
 +------------------+

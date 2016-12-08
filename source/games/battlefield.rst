@@ -18,7 +18,7 @@ Battlefield 1 is a first person shooter game based on World War 1.
 This game was created by Electronic Arts(EA) Inc.
 
 +------------------+
-|Availability      |
+|*Availability*    |
 +==================+
 |Playstation 4     |
 +------------------+

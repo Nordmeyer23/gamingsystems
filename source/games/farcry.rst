@@ -33,7 +33,7 @@ help you over come the dangers of Oros.
 This game was created by Ubisoft.
 
 +------------------+
-|Availability      |
+|*Availability*    |
 +==================+
 |Playstation 4     |
 +------------------+
