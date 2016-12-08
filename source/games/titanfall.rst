@@ -16,8 +16,12 @@ About
 
 This game was created by Electronic Arts(EA) Inc.
 
-Availablity
-------------
-* PS4
-* Xbox 1
-* PC
++------------------+
+|Availability      |
++==================+
+|Playstation 4     |
++------------------+
+|Xbox 1            |
++------------------+
+|PC                |
++------------------+

@@ -13,13 +13,19 @@ Contents:
 About
 ------
 Far Cry Primal is a first person role playing game set in the stone age when 
-humans were bottom of the foot chain.
+humans were bottom of the foot chain. Constantly being in extreme danger and 
+limitless adventure, either by the great mammoths or sabretooth tigers that 
+rule the world.
 
 
 This game was created by Ubisoft.
 
-Availablity
-------------
-* PS4
-* Xbox 1
-* PC
++------------------+
+|Availability      |
++==================+
+|Playstation 4     |
++------------------+
+|Xbox 1            |
++------------------+
+|PC                |
++------------------+
