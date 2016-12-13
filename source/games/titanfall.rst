@@ -33,21 +33,21 @@ You can also customize your Titan in multiplayer. There are 6 different Titans
 to choose from and customize. Theres Northstar, Ronin, Scorch, Ion, Legion,
 and Tone.
 
-+-----------------------------------------------------------------------------------------------------------+
-|Titan Name|Ability       |Primary Weapon  |
-+===========================================================================================================+
-|Scorch|Manipulates fire as its primary source of defensive and offensive abilities| T-203 Thermite Launcher|
-+-----------------------------------------------------------------------------------------------------------+
-|Northstar|Master of both flight and precision kills, A sniper who can fly|Plasma Railgun|
-+-----------------------------------------------------------------------------------------------------------+
-|Ronin|Loves getting up close with its samurai vibe, and quick to get in and out tactice|Leadwall Shotgun|
-+-----------------------------------------------------------------------------------------------------------+
-|Ion|Uses its energy management abilities to divert power between its three weapons systems|Splitter Rifle|
-+-----------------------------------------------------------------------------------------------------------+
-|Legion|Utilizes an assortment of ballistic abilities focusing on defense and control|Predator Cannon|
-+-----------------------------------------------------------------------------------------------------------+
-|Tone|Accurately laying waste to enemies both efficiently - and explosively|Tracker 40mm|
-+-----------------------------------------------------------------------------------------------------------+
++----------+--------------------------------------------------------------------------------------+------------------------+
+|Titan Name|Ability                                                                               |Primary Weapon          |
++==========+======================================================================================+========================+
+|Scorch    |Manipulates fire as its primary source of defensive and offensive abilities           | T-203 Thermite Launcher|
++----------+--------------------------------------------------------------------------------------+------------------------+
+|Northstar |Master of both flight and precision kills, A sniper who can fly                       |Plasma Railgun          |
++----------+--------------------------------------------------------------------------------------+------------------------+
+|Ronin     |Loves getting up close with its samurai vibe, and quick to get in and out tactice     |Leadwall Shotgun        |
++----------+--------------------------------------------------------------------------------------+------------------------+
+|Ion       |Uses its energy management abilities to divert power between its three weapons systems|Splitter Rifle          |
++----------+--------------------------------------------------------------------------------------+------------------------+
+|Legion    |Utilizes an assortment of ballistic abilities focusing on defense and control         |Predator Cannon         |
++----------+--------------------------------------------------------------------------------------+------------------------+
+|Tone      |Accurately laying waste to enemies both efficiently - and explosively                 |Tracker 40mm            |
++----------+--------------------------------------------------------------------------------------+------------------------+
 
 This game was created by Electronic Arts(EA) Inc.
 
