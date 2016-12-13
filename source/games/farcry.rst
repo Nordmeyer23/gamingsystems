@@ -1,7 +1,6 @@
 Far Cry Primal
 ==========================================
 
-Contents:
 
 .. toctree::
    :maxdepth: 2
@@ -30,7 +29,7 @@ with your owl, who you can call upon to see whats up ahead and who may be
 waiting for you over the next hill. You meet many people along the way who
 help you over come the dangers of Oros.
 
-This game was created by Ubisoft.
+This game was created by `Ubisoft`_.
 
 +------------------+
 |*Availability*    |
@@ -41,3 +40,5 @@ This game was created by Ubisoft.
 +------------------+
 |PC                |
 +------------------+
+
+.. _Ubisoft: https://www.ubisoft.com/en-US/

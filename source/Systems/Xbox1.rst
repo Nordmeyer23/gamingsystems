@@ -1,7 +1,11 @@
 Xbox One
 ========
 
-.. topic:: The Dream 
+.. toctree::
+   :maxdepth: 2
+
+The Dream 
+----------
 
     The *Xbox One* was released on November 22nd 2013 and is still kicking strong
     with amazing sales. The Xbox one features a sleek design with some amazing

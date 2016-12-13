@@ -1,7 +1,11 @@
 PS4
 ===
 
-.. topic:: The Personal Favorite
+.. toctree::
+   :maxdepth: 2
+
+The Personal Favorite
+---------------------
 
 	The Sony Play Station is a staple for most people’s childhoods. The original
 	Play Station was my first ever gaming system. That is assuming you do not  count 
